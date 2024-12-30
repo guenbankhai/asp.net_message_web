@@ -1,0 +1,56 @@
+﻿* {
+    margin: 0;
+}
+
+.container {
+    background-color: white;
+    border-radius: 6px;
+    color: #4a4a4a;
+    display: block;
+    padding: 1.25rem;
+}
+
+.banner {
+    width: 60px;
+    height: 60px;
+}
+
+.item {
+    display: flex;
+    padding-top: 8px;
+    padding-bottom: 5px;
+}
+
+.login-label-item {
+    font-size: 1em;
+    width: 130px;
+    padding-top: 3px;
+    padding-left: 25px;
+    color: rgb(107, 107, 107);
+}
+
+.login-input-item {
+    text-align: left;
+    font-size: 1em;
+    width: 100%;
+}
+
+.login-input-text {
+    padding: 7px 5px;
+}
+
+.btnlogin {
+    background-color: #3298DC;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.0;
+    position: relative;
+    display: inline-block;
+    padding: 0.8rem 1rem;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    letter-spacing: 0.1em;
+    color: #fff;
+    border-radius: 0.3rem;
+}
